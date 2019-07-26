@@ -2,6 +2,7 @@
 title: Proceedings of Machine Learning Research
 booktitle: Proceedings of Machine Learning Research
 publisher: PMLR
+shortname: CD 2019
 series: Proceedings of Machine Learning Research
 volume: 104
 start: 2019-08-05
@@ -13,8 +14,19 @@ id: CD2019
 month: 0
 tex_title: Proceedings of Machine Learning Research
 cycles: false
-bibtex_editor: ''
-editor: []
+bibtex_editor: Le, Thuc Duy and Li, Jiuyong and Zhang, Kun and Cui, Emre K{\i}c{\i}man
+  Peng and Hyv\"{a}rinen, Aapo
+editor:
+- given: Thuc Duy
+  family: Le
+- given: Jiuyong
+  family: Li
+- given: Kun
+  family: Zhang
+- given: Emre Kıcıman Peng
+  family: Cui
+- given: Aapo
+  family: Hyvärinen
 description: |
   Proceedings of Machine Learning Research
     Held in Anchorage, Alaska, USA on 05 August 2019
@@ -22,6 +34,11 @@ description: |
   Published as Volume 104 by the Proceedings of Machine Learning Research on 26 July 2019.
 
   Volume Edited by:
+    Thuc Duy Le
+    Jiuyong Li
+    Kun Zhang
+    Emre Kıcıman Peng Cui
+    Aapo Hyvärinen
 
   Series Editors:
     Neil D. Lawrence
@@ -43,7 +60,7 @@ display:
   comments: false
 email: ''
 conference:
-  name: Proceedings of Machine Learning Research
+  name: The 2019 ACM SIGKDD Workshop on Causal Discovery
   url: 
   location: Anchorage, Alaska, USA
   dates:
