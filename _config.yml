@@ -4,6 +4,7 @@ booktitle: Proceedings of Machine Learning Research
 publisher: PMLR
 shortname: CD 2019
 series: Proceedings of Machine Learning Research
+issn: 2640-3498
 volume: 104
 start: 2019-08-05
 end: 2019-08-05
@@ -48,8 +49,11 @@ baseurl: "/v104"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+plugins:
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v104
 display:
@@ -68,5 +72,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
-# Auto generated from /Users/neil/mlresearch/v104/bibliographyCD2019.bib
+# Original source:  /Users/neil/mlresearch/bibtex.bib
