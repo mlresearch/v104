@@ -9,6 +9,8 @@ volume: 104
 start: 2019-08-05
 end: 2019-08-05
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 published: 2019-07-26
 layout: proceedings
 id: CD2019
